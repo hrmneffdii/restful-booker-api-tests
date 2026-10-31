@@ -23,7 +23,7 @@ API test automation for [Restful-Booker](https://restful-booker.herokuapp.com), 
 | Test framework | Playwright Test (`@playwright/test`, `request` fixture) |
 | Language | TypeScript |
 | Schema validation | Ajv (JSON Schema) |
-| Manual exploration | Postman (collection in `postman/`) |
+| Manual exploration | Postman |
 | Reporting | Playwright HTML report |
 | CI | GitHub Actions |
 | Runtime | Node.js 20+ |
